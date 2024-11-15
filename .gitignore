@@ -23,3 +23,6 @@ Thumbs.db
 
 # Optional: temporary files
 *.tmp
+
+# Environment variables
+.env
